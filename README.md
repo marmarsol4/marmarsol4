@@ -36,4 +36,4 @@
 
 ## 📈 GitHub Stats
 
-[![Estadísticas de GitHub de ](https://github-readme-stats-xi-bay.vercel.app/api?username=marmarsol4&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Estadísticas de GitHub](https://github-readme-stats-xi-bay.vercel.app/api?username=marmarsol4&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
