@@ -1,8 +1,4 @@
-## 👋 Hi there, welcome to my profile
-
-- 🎓 I am **María Márquez Soldán**, a graduated software engineer from University of Seville
-- 🎯 I am eager to learn new things! 
-- 👩🏽‍💻 Full-stack developer
+## 👋 I'm a graduated software engineer from University of Seville
 
 ## 📫 How to reach me
 
